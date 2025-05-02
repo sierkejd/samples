@@ -1,8 +1,8 @@
-# Quick Start Guide – Naval GIS Console (MarineNav 4500 Equivalent)
+# Quick Start Guide – Electronic Navigation Console (MarineNav 4500 Equivalent)
 
-**System:** Naval GIS Console (MarineNav 4500 equivalent)  
+**System:** Electronic Navigation Console (MarineNav 4500 equivalent)  
 **Location:** Bridge – USS John F. Kennedy (CV-67)  
-**Audience:** Quartermasters, Officers of the Deck, and Bridge Watchstanders  
+**Audience:** Quartermasters, Officers of the Deck, and qualified Bridge Watchstanders  
 **Purpose:** This guide provides the essential steps for operating the electronic navigation system used aboard ship for routine watchstanding duties.
 
 > ⚓ This quick start guide is based on a reconstructed version of an unofficial reference I created as a Quartermaster in 1998. It prioritizes clarity, brevity, and watch-use relevance over the exhaustive scope of the original 300+ page OEM manual.
@@ -11,9 +11,8 @@
 
 ## 🟢 1. Powering On the Console
 
-1. Confirm bridge power is active from the electronics panel.
-2. Press the **Power** button located on the lower right bezel of the console.
-3. Wait 60–90 seconds for the system to boot and display the main interface.
+1. Press the **Power** button located on the lower right bezel of the console.
+2. Wait 60–90 seconds for the system to boot and display the main interface.
 
 > If the screen remains black or unresponsive, check the circuit breaker in the Nav Electronics Locker or consult the Combat Systems Watch Officer.
 
@@ -22,7 +21,7 @@
 ## 🗺️ 2. Loading a Navigation Chart
 
 1. Select `Chart Control > Load Chart` from the Main Menu.
-2. Choose the correct operational region (e.g., `ATLANTIC`, `GULF`, `MED SEA`).
+2. Choose `Load according to current position` (Item 2).
 3. Confirm chart edition and update status.
 4. Click **Load** to display the chart.
 
