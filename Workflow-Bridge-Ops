@@ -1,0 +1,27 @@
+# 🗺️ Bridge Workflow – MarineNav 4500 Console
+
+This visual outlines the typical workflow for bridge watchstanders using the MarineNav 4500 console aboard USS Kennedy.
+
+[Start of Watch]
+|
+v
+[Power On Console]
+|
+v
+[Load Operational Chart]
+|
+v
+[Verify Display Layers]
+(AIS, Sonar, Night Mode)
+|
+v
+[Mark Waypoints]
+|
+v
+[Monitor Position / Update Route]
+|
+v
+[Log Track History or Export]
+|
+v
+[End of Watch]
