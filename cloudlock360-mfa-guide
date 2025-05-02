@@ -1,0 +1,77 @@
+# Setting Up Multi-Factor Authentication (MFA) in CloudLock360
+
+Welcome to CloudLock360! To help keep your account secure, we require all users to enable multi-factor authentication (MFA). MFA provides an extra layer of protection beyond just your password by requiring a verification code from your mobile device.
+
+This guide walks you through the steps to enable MFA for your CloudLock360 account.
+
+---
+
+## 🔐 What You'll Need
+
+- Your CloudLock360 username and password
+- A smartphone or tablet with an MFA app installed (we recommend Google Authenticator or Authy)
+
+---
+
+## 🪜 Step-by-Step Instructions
+
+### 1. Log In to Your Account
+
+1. Visit [https://dashboard.cloudlock360.com](https://dashboard.cloudlock360.com).
+2. Enter your username and password.
+3. Click **Log In**.
+
+> If you’ve forgotten your password, click “Forgot Password” on the login screen to reset it.
+
+---
+
+### 2. Navigate to Security Settings
+
+1. Click your profile icon in the top right corner.
+2. Select **Account Settings** from the dropdown menu.
+3. Go to the **Security** tab.
+
+---
+
+### 3. Enable MFA
+
+1. Under **Multi-Factor Authentication**, click **Enable**.
+2. A QR code will appear on screen.
+
+---
+
+### 4. Scan the QR Code
+
+1. Open your MFA app on your phone.
+2. Tap **+** or **Scan QR Code**.
+3. Scan the QR code displayed on the CloudLock360 screen.
+
+Your app will now generate a 6-digit verification code every 30 seconds.
+
+---
+
+### 5. Enter the Verification Code
+
+1. Type the current code from your MFA app into the field provided.
+2. Click **Verify**.
+
+✅ If successful, you'll see a confirmation message:  
+> “Multi-Factor Authentication Enabled Successfully.”
+
+---
+
+## 📎 Additional Notes
+
+- If you lose access to your device, contact your administrator to reset MFA.
+- You can manage trusted devices from the **Devices** section in Account Settings.
+- CloudLock360 supports backup codes—download and store them securely.
+
+---
+
+## 💬 Need Help?
+
+If you encounter any issues, visit our Help Center or email support@cloudlock360.com.
+
+---
+
+*Last updated: May 2, 2025*
