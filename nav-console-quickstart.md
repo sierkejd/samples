@@ -14,7 +14,7 @@
 1. Press the **Power** button located on the lower right bezel of the console.
 2. Wait 60–90 seconds for the system to boot and display the main interface.
 
-> If the screen remains black or unresponsive, check the circuit breaker in the Nav Electronics Locker or consult the Combat Systems Watch Officer.
+> If the screen remains black or unresponsive, check the circuit breaker on the rear of the console or consult the Engineering Officer of the Watch (EOW).
 
 ---
 
@@ -22,7 +22,7 @@
 
 1. Select `Chart Control > Load Chart` from the Main Menu.
 2. Choose `Load according to current position` (Item 2).
-3. Confirm chart edition and update status.
+3. Confirm chart number with the Quartermaster of the Watch (QMOW).
 4. Click **Load** to display the chart.
 
 > Always verify that the loaded chart corresponds to the planned operating area and has been verified against the paper chart.
@@ -54,10 +54,10 @@
 2. Review legs, headings, distances, and ETA.
 
 ### Exporting Track History
-1. Insert USB drive into the console port.
+1. Insert USB device into the console port.
 2. Go to `Tools > Export Track Log`.
 3. Select the desired date range.
-4. Click **Export** and safely eject the drive.
+4. Click **Export** and safely remove the drive.
 
 ---
 
