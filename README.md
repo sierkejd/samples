@@ -7,8 +7,19 @@ This repo contains samples of my technical writing work, including how-to guides
 
 ## 📄 Writing Samples
 
-- **CloudLock360 MFA Setup Guide**  
-  Step-by-step user instructions for enabling multi-factor authentication.
+### 🛳️ MarineNav 4500 Quick Start Guide (Reconstructed from USS Kennedy, 1998)
+
+This guide is a modern reconstruction of documentation I created as a Quartermaster (navigation specialist) aboard the USS John F. Kennedy (CV-67). The OEM manual for our electronic navigation system was over 300 pages long and poorly suited for fast-paced bridge operations. I wrote an unofficial “cheat sheet” for watchstanders that distilled essential functions into a single, user-friendly reference.
+
+This version showcases my ability to:
+- Translate complex system documentation into task-focused guidance
+- Prioritize user needs in high-stakes operational environments
+- Present clear, modular steps for fast comprehension and execution
+
+🔗 **[View Markdown Version](nav-console-quickstart.md)**  
+📄 **[Download PDF Version](nav-console-quickstart.pdf)**  
+🗺️ **[View Visual Workflow](workflow-bridge-ops.png)**
+
 
 - **NebulaPay API Documentation**  
   Developer-facing reference for the `/users` REST API endpoint.
