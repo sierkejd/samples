@@ -21,11 +21,18 @@ This version showcases my ability to:
 🗺️ **[View Visual Workflow](workflow-bridge-ops.png)**
 
 
-- **NebulaPay API Documentation**  
-  Developer-facing reference for the `/users` REST API endpoint.
+📚 Project Documentation
+🛠 Builder’s Blitz 2017: Lessons Learned
+As a Maintenance Coordinator and Materials Assistant Coordinator for the 2017 Greater Birmingham Habitat for Humanity Builder’s Blitz, I prepared a Lessons Learned report reflecting on stakeholder communication, materials logistics, and project coordination. The following documents summarize key takeaways from that experience:
 
-- **SwarmHost Troubleshooting Article**  
-  Help center article addressing a common HTTP 403 error.
+🔗 **[View Markdown Version](Builders-Blitz-lessons-learned.md)**  
+📄 **[Download PDF Version](Builders-Blitz-lessons-learned.docx)**  
+
+These reports highlight areas for operational improvement and were used to inform future Blitz builds in the Eastlake neighborhood of Birmingham, Alabama.
+
+- 📄 **Credit Request Memo – Gardner Denver-Nash (2012)**  
+  Formal credit request issued for early payment rebate on invoice AIS-INV-2873.
+ 📄 **[View PDF](Credit_Request_Memo_GDN_2012.pdf)**
 
 - **SnapEdit Keyboard Shortcuts Sheet**  
   A printable PDF of useful shortcuts for SnapEdit Pro users.
