@@ -21,12 +21,12 @@ This version showcases my ability to:
 🗺️ **[View Visual Workflow](workflow-bridge-ops.png)**
 
 
-📚 Project Documentation
-🛠 Builder’s Blitz 2017: Lessons Learned
+## 📚 Project Documentation
+### 🛠 Builder’s Blitz 2017: Lessons Learned
 As a Maintenance Coordinator and Materials Assistant Coordinator for the 2017 Greater Birmingham Habitat for Humanity Builder’s Blitz, I prepared a Lessons Learned report reflecting on stakeholder communication, materials logistics, and project coordination. The following documents summarize key takeaways from that experience:
 
-🔗 **[View Markdown Version](Builders-Blitz-lessons-learned.md)**  
-📄 **[Download PDF Version](Builders-Blitz-lessons-learned.docx)**  
+🔗 **[View Markdown Version](Lessons_Learned_Habitat_Builder_Blitz_2017.md)**  
+📄 **[Download PDF Version](Lessons_Learned_Habitat_Builder_Blitz_2017.docx)**  
 
 These reports highlight areas for operational improvement and were used to inform future Blitz builds in the Eastlake neighborhood of Birmingham, Alabama.
 
