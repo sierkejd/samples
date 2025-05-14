@@ -18,7 +18,7 @@ This version showcases my ability to:
 
 🔗 **[View Markdown Version](nav-console-quickstart.md)**  
 📄 **[Download PDF Version](nav-console-quickstart.pdf)**  
-🗺️ **[View Visual Workflow](Workflow-Bridge-Ops.md)**
+🗺️ **[View Visual Workflow](Workflow-Bridge-Ops)**
 
 
 ## 📚 Project Documentation
